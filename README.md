@@ -1,6 +1,5 @@
 # Agora Flutter Quickstart
 
-*其他语言版本： [简体中文](README.zh.md)*
 
 This tutorial describes how to create an Agora account and build a sample app with Agora using [Flutter](https://flutter.io/).
 
